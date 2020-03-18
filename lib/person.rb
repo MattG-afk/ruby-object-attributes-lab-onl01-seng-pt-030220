@@ -22,8 +22,4 @@ class Person
   def job_name=(job)
     @job_name = job
   end
-  
-  
-  
-  
 end

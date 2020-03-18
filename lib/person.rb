@@ -24,3 +24,5 @@ class Person
   end
   
 end
+
+beyonce.job=

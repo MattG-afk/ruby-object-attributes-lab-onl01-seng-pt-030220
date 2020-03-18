@@ -11,7 +11,7 @@ class Person
     @name = new_name
   end
   
-   def initialize=(job_name)
+   def initialize=(job)
     @job= job_name
   end
  

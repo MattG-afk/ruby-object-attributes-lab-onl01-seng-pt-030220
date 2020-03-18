@@ -25,4 +25,4 @@ class Person
   
 end
 
-beyonce.job=
+beyonce.job=("Singer")

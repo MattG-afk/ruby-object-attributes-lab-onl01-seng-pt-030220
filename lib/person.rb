@@ -11,7 +11,7 @@ class Person
     @name = new_name
   end
   
-   def job=(job_name)
+   def initialize=(job_name)
     @job= job_name
   end
  
@@ -22,6 +22,6 @@ class Person
   def job=(new_job)
     @job = new_job
   end
-beyonce.job=("Singer")
+  
 end
 

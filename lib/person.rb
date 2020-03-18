@@ -12,10 +12,10 @@ class Person
   end
   
    def initialize=(job)
-    @job= job_name
+    @job= job
   end
  
-  def job_name
+  def job
     @job
   end
   

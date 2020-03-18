@@ -18,4 +18,5 @@ class Person
   def job_name
     @job
   end
+  
 end
